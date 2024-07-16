@@ -1,7 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
+###
+
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&pause=700&center=true&vCenter=true&width=500&height=70&color=006AFF&duration=5000&lines=Hey!+👋;+I'm Davide+Tessari;+Jr+Full+Stack+Web+Developer!!" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&pause=700&center=true&vCenter=true&width=500&height=70&color=ffffff&duration=5000&lines=Hey!+👋;+I'm+Davide+Tessari;+Jr+Full+Stack+Web+Developer!!"/>
 </h1>
 
 ###
